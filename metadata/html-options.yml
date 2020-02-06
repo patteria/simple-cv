@@ -33,11 +33,11 @@ html-fonts: # comment out this entire section to use default fonts
     type: serif
     name: Cormorant Garamond
     url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
-   colors:
-     body: "#D0D3DB" # This must be in quotes;
-     headings: "#D0D3DB" # This must be in quotes;
-     display: "#D0D3DB" # This must be in quotes;
-     navbar-items: "#D0D3DB" # This must be in quotes;
+  # colors:
+   #  body: "#D0D3DB" # This must be in quotes;
+   #  headings: "#D0D3DB" # This must be in quotes;
+   #  display: "#D0D3DB" # This must be in quotes;
+   #  navbar-items: "#D0D3DB" # This must be in quotes;
   #   links:
   #     regular: "#cccc00" # This must be in quotes;
   #     hover: "#cc00cc" # This must be in quotes;
