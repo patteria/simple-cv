@@ -1,5 +1,5 @@
 ## Education
 
-* **Sorbonne**, PhD, 1925
-* **University of Chicago**, AB, 1922, Archæology
-  * Adviser: Abner Ravenwood
+* **New York University**, MA, 2020, Digital Journalism
+* **Boston College**, BA, 2018, Psychology, Minors: American Studies, Film
+  * Adviser: Carlo Rotella
